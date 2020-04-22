@@ -4,5 +4,5 @@
   - name: pinging the servers
     ping:
     
-    //checking//
+    //checking//with proj
     
